@@ -53,6 +53,7 @@
                 </Grid.ColumnDefinitions>
 
                 <StackPanel Grid.Column="0">
+                    <CheckBox Content="tes" />
                 </StackPanel>
                 <StackPanel Grid.Column="1" Margin="20 0">
                 </StackPanel>
